@@ -5,4 +5,4 @@ Roadmap :
 <li> Hook into CI/CD / Docker / Testing Framework.</li>
 <li> Report information back to user; merge if possible. </li>
 </ol>
-This road map is still in development :-)
+This road map is still in development :-). I have dreams of making an Electron based front end as well.
