@@ -7,6 +7,7 @@ as long as it falls into our acceptable list:
 <li>md</li>
 <li>powerpoint</li>
 </ul>
-If your documentation falls out of date, please delete it. Misleading documentation is worse than none.
+If your documentation falls out of date, please update or delete it. Misleading documentation is worse than none.
 
 <h1> General Guidelines </h1>
+Documentation should be concise.
